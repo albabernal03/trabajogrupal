@@ -7,8 +7,13 @@ En primer lugar hemos resuelto el código de Black Jack aplicando la técnica SH
 
 SHU: Nos basamos en seguir las reglas, sin cuestionarlas
 HA: Tenemos conocimiento de las reglas, sacamos nuestras propias conclusiones y adaptamos estas a nuestras necesidades 
-RI 
+RI: Inovamos creamos
+
+
+El diagrama de flujo es el siguiente:
 
 
 
-![DIAGRAMA DE FLUJO]
+
+
+
